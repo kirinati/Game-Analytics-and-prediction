@@ -1,2 +1,2 @@
 # Game-Analytics-and-prediction
-Some game analytics projects I have been working on
+Some game and anime analytics projects I have been working on
